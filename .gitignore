@@ -1,0 +1,7 @@
+*.log
+*.bat
+*.docx
+*.csv
+*.pyc
+credentials.py
+chromedriver.exe
